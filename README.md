@@ -36,7 +36,7 @@ Um jogo educativo para praticar e avaliar conceitos de Pensamento Computacional 
 
 2. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/jacquelinenavarro/jogo-forca-pensamento-computacional.git)
+   git clone(https://github.com/jacquelinenavarro/jogo-forca-pensamento-computacional.git)
    cd jogo-forca-pensamento-computacional
    ```
 
